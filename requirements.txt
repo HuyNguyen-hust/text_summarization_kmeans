@@ -1,0 +1,11 @@
+sentence_transformers
+numpy
+pandas
+matplotlib
+newspaper3k
+scikit-learn
+regex
+joblib
+plotly
+argparse
+tqdm
